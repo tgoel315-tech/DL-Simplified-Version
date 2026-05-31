@@ -1,4 +1,4 @@
-# 📈 Anomaly Detection in Time Series 
+# 📈 Anomaly Detection in Time Series
 
 ### 🔴 Goal
 The objective of this project is to develop an effective model to detect anomalies in time series data using LSTM networks and other algorithms, aiming to achieve high accuracy and reliability.
